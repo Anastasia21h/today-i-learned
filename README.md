@@ -14,3 +14,4 @@ __Основні команди__
 *git checkout [name] - перехід на нову гілку
 *git merge [name] - злиття гілок
 *git push origin [name branch] - надсилання локального вмісту на GitHub
+wefwef
