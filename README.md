@@ -9,11 +9,18 @@ __Основні команди__
 *git config --global user.email "example@gmail.com"
 
 *git init - створить новий підкаталог .git, який містить всі необхідні файли вашого репозиторія — скелет Git-репозиторія
+
 *git status - перевірка статусу файлів
+
 *git add - додавання файлів
+
 *git commit - збереження змін у комітах
+
 *git branch [name] - створення нової гілки
+
 *git checkout [name] - перехід на нову гілку
+
 *git merge [name] - злиття гілок
+
 *git push origin [name branch] - надсилання локального вмісту на GitHub
 
